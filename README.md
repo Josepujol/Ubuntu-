@@ -58,31 +58,31 @@ Para instalar desde el editor de comandos los programas que uso en el aula TIC I
 - sudo apt-get install kdenlive
 
 # VLC
-sudo apt-get update
-sudo apt-get install vlc
+- sudo apt-get update
+- sudo apt-get install vlc
 
 # Pinta
-sudo add-apt-repository ppa:pinta-maintainers/pinta-stable
-sudo apt-get update
-sudo apt-get install pinta
+- sudo add-apt-repository ppa:pinta-maintainers/pinta-stable
+- sudo apt-get update
+- sudo apt-get install pinta
 
 # Inkscape
-sudo apt-get update
-sudo apt-get install inkscape
+- sudo apt-get update
+- sudo apt-get install inkscape
 
 # Gimp
-sudo add-apt-repository ppa:otto-kesselgulasch/gimp
-sudo apt update
-sudo apt install gimp
+- sudo add-apt-repository ppa:otto-kesselgulasch/gimp
+- sudo apt update
+- sudo apt install gimp
 
 # Actualizar Mozilla
-sudo add-apt-repository ppa:ubuntu-mozilla-security/ppa
-sudo apt-get update
-sudo apt-get upgrade
+- sudo add-apt-repository ppa:ubuntu-mozilla-security/ppa
+- sudo apt-get update
+- sudo apt-get upgrade
 
 # Libreria PyGame
-sudo apt-get update
-sudo apt-get install python-pygame
+- sudo apt-get update
+- sudo apt-get install python-pygame
 
 # Arduino
 - cd Descargas/arduino*	// movernos a la carpeta donde está Arduino
