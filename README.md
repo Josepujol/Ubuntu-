@@ -136,7 +136,3 @@ GenericName[en]=Use Snap! to control Arduino boards. Arduino goes lambda!
 - sudo add-apt-repository ppa:thopiekar/cura
 - sudo apt-get update
 - sudo apt-get install cura
-
-
-
-
