@@ -1,4 +1,6 @@
-# Ubuntu-
+# Ubuntu EDU
+
+Para instalar desde el editor de comandos los programas que uso en el aula TIC II
 
 # PARA EMPEZAR
 
