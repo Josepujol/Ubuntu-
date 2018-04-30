@@ -70,7 +70,7 @@ Sistema operativo Ubuntu 16.04
 
 # Actualizar LibreOffice
 - sudo add-apt-repository ppa:libreoffice/ppa 
-- sudo apt update && sudo apt install libreoffice
+- sudo apt-get update && sudo apt-get install libreoffice
 
 # Libreria PyGame
 - sudo apt-get update && sudo apt-get install python-pygame
@@ -92,11 +92,11 @@ Sistema operativo Ubuntu 16.04
 - sudo apt-get update && sudo apt-get install visualino
 
 # Bluefish
-- sudo apt-get update && sudo apt install bluefish
+- sudo apt-get update && sudo apt-get install bluefish
 
 # Audacity
 - sudo add-apt-repository ppa:ubuntuhandbook1/audacity
-- sudo apt update && sudo apt install audacity
+- sudo apt-get update && sudo apt-get install audacity
 
 # Processing
 - http://nontenxeito.net/instalar-processing-3-en-ubuntu-con-acceso-directo-desde-launcher/
