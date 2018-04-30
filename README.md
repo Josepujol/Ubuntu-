@@ -1,6 +1,6 @@
-# Ubuntu EDU
+# Ubuntu TICII
 
-Para instalar desde el editor de comandos los programas que uso en el aula TIC II
+Para instalar desde el editor de comandos los programas que uso en el aula TIC II. Ubuntu 16.04
 
 # PARA EMPEZAR
 
