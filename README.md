@@ -1,6 +1,5 @@
 # Ubuntu TICII
-
-Para instalar desde el editor de comandos los programas que uso en el aula TIC II. Ubuntu 16.04
+Listado de programas de los PCs del aula TICII y como instalarlos desde el terminal. Ubuntu 16.04
 
 # PARA EMPEZAR
 
