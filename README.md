@@ -79,6 +79,10 @@ Listado de programas de los PCs del aula TICII y como instalarlos desde el termi
 - sudo apt-get update
 - sudo apt-get upgrade
 
+# Actualizar LibreOffice
+- sudo add-apt-repository ppa:libreoffice/ppa 
+- sudo apt update && sudo apt install libreoffice
+
 # Libreria PyGame
 - sudo apt-get update
 - sudo apt-get install python-pygame
