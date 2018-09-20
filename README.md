@@ -1,6 +1,6 @@
 # Ubuntu TICII
 Listado de programas de los PCs del aula TICII y como instalarlos desde el terminal. 
-Sistema operativo Ubuntu 16.04
+Sistema operativo Ubuntu 16.04 LTS versión 64 bits
 
 # PARA EMPEZAR
 
@@ -76,6 +76,7 @@ Sistema operativo Ubuntu 16.04
 - sudo apt-get update && sudo apt-get install python-pygame
 
 # Arduino
+- // Descargar ultima versión Arduino desde https://www.arduino.cc/en/Main/Software
 - cd Descargas/arduino*	// movernos a la carpeta donde está Arduino
 - ./install.sh
 - sudo usermod -a -G dialout usuario
@@ -100,11 +101,13 @@ Sistema operativo Ubuntu 16.04
 
 # Processing
 - http://nontenxeito.net/instalar-processing-3-en-ubuntu-con-acceso-directo-desde-launcher/
+- // Descargar la ultima version de Processing desde https://processing.org/download/
 - sudo chmod +x /opt/
 - sudo mv /home/usuario/Descargas/processing /opt/
 - sudo gedit /usr/share/applications/processing.desktop
 
 # Snap4Arduino
+- // Descargar la ultima version de Snap4Arduino desde http://snap4arduino.rocks/
 - sudo chmod +x /opt/
 - sudo mv /home/usuario/Descargas/Snap4Arduino /opt/
 - sudo cp /opt/Snap4Arduino/Snap4Arduino.desktop  /usr/share/applications/Snap4Arduino.desktop
