@@ -125,3 +125,14 @@ GenericName[en]=Use Snap! to control Arduino boards. Arduino goes lambda!
 # Cura
 - sudo add-apt-repository ppa:thopiekar/cura
 - sudo apt-get update && sudo apt-get install cura
+
+# Cura version 3.6
+// Descargar version 3.6
+// mover a la carpeta donde esta archivo 
+chmod u+x Ultimaker_Cura-3.6.0.AppImage 
+./Ultimaker_Cura-3.6.0.AppImage
+
+# KiCAD
+sudo add-apt-repository --yes ppa:js-reynaud/kicad-5
+sudo apt update
+sudo apt install kicad
