@@ -122,6 +122,8 @@ Name=Snap4Arduino
 Name[en]=Snap4Arduino
 GenericName[en]=Use Snap! to control Arduino boards. Arduino goes lambda!
 
+# Hasta aqui todos los Pcs #
+
 # Cura
 - sudo add-apt-repository ppa:thopiekar/cura
 - sudo apt-get update && sudo apt-get install cura
