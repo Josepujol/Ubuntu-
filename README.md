@@ -123,10 +123,10 @@ Name[en]=Snap4Arduino
 GenericName[en]=Use Snap! to control Arduino boards. Arduino goes lambda!
 
 # Desinstalar #
-Minas
-Solitario Aisleriot
-GNOME Mahjongg
-GNOME Sudoku
+- Minas
+- Solitario Aisleriot
+- GNOME Mahjongg
+- GNOME Sudoku
 
 # Hasta aqui todos los Pcs #
 
