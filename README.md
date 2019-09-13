@@ -77,9 +77,13 @@ Sistema operativo Ubuntu 16.04 LTS versión 64 bits
 
 ## Arduino
 - // Descargar ultima versión Arduino desde https://www.arduino.cc/en/Main/Software
-- cd Descargas/arduino*	// movernos a la carpeta donde está Arduino
-- ./install.sh
+- sudo chmod +x /opt/
+- sudo mv /home/usuario/Descargas/arduino-1.8.9 /opt/	
+- sudo cd /opt/arduino-1.8.9
+- sudo ./install.sh
+### Permisos Puerto serie
 - sudo usermod -a -G dialout usuario
+- sudo chmod a+rw /dev/ttyACM0
 
 ## OpenSCAD
 - sudo apt-get update && sudo apt-get install openscad
