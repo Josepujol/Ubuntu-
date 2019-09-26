@@ -29,6 +29,9 @@ Sistema operativo Ubuntu 16.04 LTS versión 64 bits
 ## Python
 - sudo apt-get update && sudo apt-get install python3
 
+## IDLE Python3
+- sudo apt-get update & sudo apt-get install idle3
+
 ## LibreCAD
 - sudo add-apt-repository ppa:librecad-dev/librecad-stable
 - sudo apt-get update && sudo apt-get install librecad
